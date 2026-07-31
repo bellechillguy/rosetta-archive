@@ -110,8 +110,8 @@ Versi 1.0 hanya mendukung file biasa dan direktori. Symlink dan special file dit
 
 ## Dokumen pengumpulan
 
-- /docs/pdf/RTA_Format_Specification.pdf
-- /docs/pdf/RTA_Report.pdf
+- [docs/pdf/RTA_Format_Specification.pdf](docs/pdf/RTA_Format_Specification.pdf)
+- [docs/pdf/RTA_Report.pdf](docs/pdf/RTA_Report.pdf)
 
 Video demonstrasi: [YouTube](https://youtu.be/RBysrufzUBo)
 
